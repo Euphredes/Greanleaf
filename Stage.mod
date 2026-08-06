@@ -2,7 +2,6 @@
 #            Facilities Planning 
 #            ------------------- 
 
-
 # this model is intended to minimize 
 # the total cost of investing in a 
 # set of production facilities, and 
