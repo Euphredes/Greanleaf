@@ -96,131 +96,58 @@ I find Mystical Experiences
 I find Mystical Experiences 
  Discernable by Haptics. 
 
-           Schools 
+           Schooling 
 ------------------------------------- 
-
-
-
-
-
+Central Catholic Highschool in 
+ Lawrence Massachusetts. 
+Rochester Institute of Technology in 
+ Rochester New York. 
+Continuous Improvement Engineer 
+ (Intern) at JMA Wireless in 
+ Liverpool New York. 
+Product Management Analyst 
+ (Intern) at Mercury Systems in 
+ Chelmsford Massachusetts. 
+Simulation Modeler (Student) at 
+ Rochester Institute of Technology in 
+ Rochester New York for the 
+ Department of Defense. 
+Data Analyst (Intern) at Geisinger 
+ Health in Danville Pennsylvania. 
+Data Scientist (Intern) at Geisinger 
+ Health in Danville Pennsylvania. 
+Researcher (Student) at Rochester 
+ Institute of Technology in Rochester 
+ New York for the Bill and Melinda 
+ Gates Foundation. 
+Bridgewater State Hospital in 
+ Bridgewater Massachusetts. 
+Middleton Correctional Facility in 
+ Middleton Massachusetts. 
+Training Center of The Great Rock 
+ Church in Danvers Massachusetts. 
+Student of Friedrich Nietzsche to 
+ acquire some Table of Values. 
+Student of Henry David Thoreau to 
+ demonstrate Walking Life without 
+ Income as some Sort of Crusade. 
+Lover of Emily Dickinson to find 
+ out about Mystical Experiences. 
 
            Workmanship 
-
-
-
-
-
-
-
-           People 
-
-
-
-
-
-
-
-           Places 
-
-
-
-
-
-
-
-           Things 
-
-
-
-
-
-
-
-           Poems 
-
-
-
-
-
-
-
-           Attitude 
-
-
-
-
-
-
-
-Professional Summary
-
-
-
-
-
-
-
-
-Key Strengths
-
-
-
-
-Education
-Undergraduate/Graduate Student
-Rochester Institute of Technology, Rochester NY, Aug-2011 – Nov-2018 (7 yr 4 mo)
-•    Bachelor of Science in Industrial Engineering, Aug-2011 to May-2017
-•    Master of Engineering in Industrial & Systems Engineering, Aug-2015 to May-2017
-•    Doctor of Philosophy in Engineering, Aug-2017 to Nov-2018
-Work Experience
-Digital Creator
-E-Commerce, Boston MA, Jul 2022 – Present (1 yr 10 mo +)
-•    Full-stack developer of a machine learning platform.
-•    Writer and e-commerce merchant of poems and calligraphy products.
-•    Online life coach.
-Data Analytics Engineer
-FacilityConneX, Nashua NH, Oct 2020 – Jul 2022 (1 yr 10 mo)
-•    Back-end developer for continuous performance and reliability monitoring.
-•    Developed real-time machine learning in Python for a data streaming platform.
-•    Developed real-time analytics in Python on a data streaming platform.
-•    Code conversions from C# to Python.
-•    Developed time series dashboards.
-
-
-Data Scientist
-Aspen Technology, Bedford MA, Mar 2019 – Jun 2020 (1 yr 4 mo)
-•    Researched and constructed hybrid machine learning with first principles using Python and R.
-•    Developed the Python back-end engine for Hybrid Model Builder.
-•    Back-end developer of Python libraries for Hybrid AI Builder.
-•    Went to the 2020 East Open Data Science Conference to engage with the community.
-    Researcher (Student)
-    Rochester Institute of Technology, Rochester NY, Sep 2016 – Nov 2018 (2 yr 3 mo)
-•    Presented vaccine research on global distribution optimization for the Bill & Melinda Gates Foundation at the 2017 INFORMS conference.
-•    Using statistics and optimization in R and AMPL, modeled budget uncertainty in the global vaccine market.
-•    Using machine learning in R, developed a healthcare risk index for each country over time.
-•    Reviewed vaccine literature using natural language processing in R.
-Data Scientist (Intern)
-Geisinger Health, Danville PA, Jun 2017 – Aug 2017 (3 mo)
-•    Using machine learning in R, modeled the likelihood of a patient not donating to the MyCode program that genetically predicts illness and disease.
-•    Using machine learning in R, modeled the distinguishing characteristics of bladder cancer patients.
-Data Analyst (Intern)
-Geisinger Health, Danville PA, Jun 2016 – Aug 2016 (3 mo)
-•    Using statistics in R and Teradata, made recommendations to executives of two neighboring hospitals on how to share their demands based on an analysis of personal health records and doctor schedules.
-•    Using statistics in Excel and Teradata, made recommendations to the hospital's operations staff on responding to changing occupancy levels based on a time series analysis of personal health records.
-Simulation Modeler (Student)
-Rochester Institute of Technology, Rochester NY, Nov 2015 – Mar 2016 (5 mo)
-•    Using Simio, developed a hierarchical discrete event simulation model of a manufacturing facility for the United States Department of Defense.
-Product Management Analyst (Intern)
-Mercury Systems, Chelmsford MA, Jun 2015 – Aug 2015 (3 mo)
-•    Developed a system of Excel spreadsheets to automate the pricing of new products.
-•    Using machine learning in R, created a model for the price range of new products.
-Continuous Improvement Engineer (Intern)
-JMA Wireless, Liverpool NY, Jun 2014 – Jan 2015 (8 mo)
-•    Provided a time series analysis of safety, quality, delivery, and cost for multiple manufacturing cells.
-•    Ran time studies on multiple manufacturing cells. Designed and machined a system for line balancing the manufacturing cells. And developed an Excel spreadsheet for redesigning the line balancing system.
-•    Measured the floor layouts of multiple manufacturing cells to redesign inventory and machine locations using AutoCAD and tape.
-•    Carried out a repeatability and reproducibility analysis on multiple workstations using Excel and Minitab.
-
+-------------------------------------
+Data Scientist at Aspen Technology in 
+ Bedford Massachusetts. 
+Data Analytics Engineer at 
+ FacilityConneX in Nashua New 
+ Hampshire. 
+Digital Creator of Mixtapes on 
+ SoundCloud, Scientific Engines 
+ on GitHub, and Individual 
+ Sovereignty. 
+Walker of 36 Counties in America to 
+ Discipline my Mind and Foster my 
+ Mysticism. 
 
            Order of Business 
            ----------------- 
