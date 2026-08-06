@@ -2,6 +2,13 @@
 #            B-Matching Model 
 #            ---------------- 
 
+# this model is intended to minimize 
+# the distance between separate work 
+# places such that information flow 
+# actually triggers the material flow 
+# that is neccessary for the people 
+# and things of each work place to 
+# survive and sustain. 
 
 # ---- define set(s) ----
 
