@@ -183,9 +183,9 @@ Hospitalization                               Yearly                 $0
 
 Production:                                   Delivery Frequency:    Cost: 
 Conversations with Artificial Intelligence    Once                   $0 
+https://github.com/Euphredes                  Weekly                 $0 
 Conversations with Strangers                  Weekly                 $0 
 Journals                                      Monthly                $0 
-https://github.com/Euphredes                  Monthly                $0 
 
 
            Social Order 
