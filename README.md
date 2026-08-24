@@ -1,6 +1,3 @@
-### Mood:  
-https://www.youtube.com/watch?v=TgM4Xxjs6nM  
-
 ### 36 Counties: 
 Oxford County, ME  
 Hillsborough County, NH  
