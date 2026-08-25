@@ -9,7 +9,7 @@ Licensing: Content in this text file
            is licensed under a Creative 
            Commons Attribution 4.0 
            International license. 
-Author: euphredes dillinger. 
+Author: Nick Morris. 
 Release: Tuesday, August 25th 2026. 
 Location: Philadelphia, PA. 
 Version: euphredes==0.1.0rc1 
@@ -28,19 +28,19 @@ Epilogue
            Introduction 
            ------------ 
 
-The following contents cover my Life's 
-Work to Justify Non-Revenue Practices, 
+The following contents cover my life's 
+work to justify non-profit practices, 
 collectively known as Greanleaf. 
 
 Logically, these practices everyday 
-yield a Body-for-Body Exchange 
+yield a Body-for-Body exchange 
 system. In such a system, Money is 
 not the Exchange Factor. It is my 
-Birthright to Choose how I practice 
+Birthright to choose how I practice 
 Exchange to survive. It is my Body 
 for another Body to improve. Notice: 
 in any Military, each Badge is Earned 
-by Crossing a Line. 
+by Crossing A Line. 
 
            Preface 
            ------- 
@@ -195,10 +195,10 @@ II.
            Background 
 
 III. 
-Experienced Scientific Programmer with 
+Experienced scientific programmer with 
 a demonstrated history of working in 
-Computer Software for over ten 
-years. Strong Engineering Professional 
+computer software for over ten 
+years. Strong engineering professional 
 with a Bachelor of Science and a 
 Master of Engineering, both, in 
 Industrial Engineering, as well as 
@@ -206,17 +206,17 @@ Admission into the Engineering PhD
 Program, all three, from Rochester 
 Institute of Technology.
 
-Experienced Poet with a demonstrated 
-history of Creative Writing for over 
-fifteen years. Strong and Sensitive 
-Thinker with thousands of words 
-written in various Writing Structures 
-from: my Diverse Life Experiences, as 
-well as Careful Reading and Listening. 
+Experienced poet with a demonstrated 
+history of creative writing for over 
+fifteen years. Strong and sensitive 
+thinker with thousands of words 
+expressed in various structures 
+from: my diverse life experiences, as 
+well as careful reading and listening. 
 
 Past Master Councilor of John Greenleaf 
 Whittier Chapter, Order of DeMolay; 
-Holder of the Degree of Chevalier; 
+holder of the Degree of Chevalier; 
 winner of the Hunter Award from the 
 annual Massachusetts Conclave; expertly 
 performing the Ceremony of Light; and 
@@ -229,40 +229,41 @@ through their "Illuminati Bootcamp."
            Mission 
 
 IV. 
-To Work wherever my Critical Thinking 
-skills can facilitate Contemporary 
-Solutions. In my Life's Work, I will 
-make Empirical decisions with the 
-combined understanding of Creative 
-Thinking, Psychology, and Philosophy 
-to describe and demonstrate: key 
-patterns. 
+To work wherever my critical thinking 
+skills can facilitate contemporary 
+solutions. In my life's work, I will 
+make empirical decisions with the 
+combined understanding of creative 
+thinking, psychology, philosophy, and 
+action to describe and demonstrate: 
+key patterns. 
 
            Strengths 
 
 V. 
 Machine Learning in Python and R. 
-Optimization in Python and AMPL. 
-Back-end Programming in Python. 
+Constrained Optimization in Python 
+ and AMPL. 
+Backend programming in Python. 
 Familiar with SQL and Bash. 
-Psychological and Philosophical 
- awareness of the Human Condition. 
-Passionate about Authenticity, 
- Fordism, Caretaking, and Nobility. 
-Secure and Silent with the 
- Determination to Speak Assertively, 
- yet Caringly when Necessary. 
-I say: any Try deserves as much 
- Respect as the Complaints. 
-I give anyone my Honesty because I 
- am not a Coward over what One may 
+Psychological and philosophical 
+ awareness of the human condition. 
+Passionate about authenticity, 
+ Fordism, caretaking, and nobility. 
+Secure and silent with the 
+ determination to speak assertively, 
+ yet caringly when necessary. 
+I say: any try deserves as much 
+ respect as the complaints. 
+I give anyone my honesty because I 
+ am not a coward over what one may 
  do with it. 
-I walk Poetry Outside by serious 
+I walk poetry outside by serious 
  means. 
-I walk Industrial Engineering 
- Outside by serious means. 
-I Ambulate with the Intension of it 
- not being Circular, as though the 
+I walk industrial engineering 
+ outside by serious means. 
+I ambulate with the intension of it 
+ not being circular, as though the 
  ground-floor of America were some 
  Masonic Puzzle. 
 
@@ -375,12 +376,12 @@ Training Center of The Great Rock
            Legs 
 
 XI. 
-1. there is an artist after my heart: he, 
+1. There is an artist after my heart: he, 
    really, only wants two things: food 
    and witchcraft. 
-2. to bear a load one cannot handle, nor 
+2. To bear a load one cannot carry, nor 
    unload: the case of the epic poet. 
-3. answer to one of the questions of 
+3. Answer to one of the questions of 
    consciousness: a fugitive. 
 4. I caught you nihilist: only thoughts 
    had while walking have value. 
@@ -426,7 +427,7 @@ Nashua Spellwork: The Starting Point is
 
 XIII. 
 Respect: 
-1. Love for Family and Friends. 
+1. Love for family and friends. 
 2. Praise rarity. Protect rarity. 
 3. Be nice. 
 4. Have a battle buddy. 
@@ -446,10 +447,10 @@ I don't want to betray her with other
 relations. 
 
 XVI. 
-negate the rest as passage to her. 
+Negate the rest as passage to her. 
 
 XVII. 
-attitude starts at the destination. it's 
+Attitude starts at the destination. it's 
 only a matter of physical demonstration 
 to get my body there. 
 
@@ -459,20 +460,20 @@ where
 this train only moves forward. 
 
 XIX. 
-when walking, I envision orbs of light 
+When walking, I envision orbs of light 
 being absorbed into my body. 
 
 XX. 
-when sitting or laying down, I envision 
+When sitting or laying down, I envision 
 the tides of the beach being absorbed 
 into my body. 
 
 XXI. 
-when sitting or laying down, I envision 
+When sitting or laying down, I envision 
 being bound by chains into stillness. 
 
 XXII. 
-walking is how I earn what I show up for. 
+Walking is how I earn what I show up for. 
 
 XXIII. 
 I let my body and mind become loose or 
