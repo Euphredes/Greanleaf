@@ -1,4 +1,7 @@
-           ---------- 
+           --------- 
+           Greanleaf 
+           --------- 
+
            Publishing 
            ---------- 
 
@@ -11,25 +14,16 @@ Release: Tuesday, August 25th 2026.
 Location: Philadelphia, PA. 
 Version: euphredes==0.1.0rc1 
 
-           --------- 
-           Greanleaf 
-           --------- 
-
            Contents 
            -------- 
 
-Introduction                         W. 
+Introduction 
 Preface                              X. 
 Counties                             Y. 
 Person                               Z. 
 Table                                A. 
 Mysticism                            B. 
 Epilogue 
- Routine                             C. 
- Gambler                             D. 
- Consultant                          E. 
- Workshop                            F. 
- Playlist                            G. 
 
            Introduction 
            ------------ 
@@ -156,42 +150,42 @@ alone.
            Counties 
            -------- 
 
-Oxford County, ME. 
-Hillsborough County, NH. 
-Essex County, MA. 
-Suffolk County, MA. 
-Plymouth County, MA. 
-Barnstable County, MA. 
-Bristol County, MA. 
-Newport County, RI. 
-Washington County, RI. 
-New London County, CT. 
-Middlesex County, CT. 
-New Haven County, CT. 
-Fairfield County, CT. 
-Westchester County, NY. 
-Bronx County, NY. 
-New York County, NY. 
-Bergen County, NJ. 
-Essex County, NJ. 
-Union County, NJ. 
-Middlesex County, NJ. 
-Mercer County, NJ. 
-Philadelphia County, PA. 
-Delaware County, PA. 
-New Castle County, DE. 
-Cecil County, MD. 
-Harford County, MD. 
-Baltimore County, MD. 
-Middlesex County, MA. 
-Worcester County, MA. 
-Hampden County, MA. 
-Hartford County, CT. 
-Litchfield County, CT. 
-Putnam County, NY. 
-Rockland County, NY. 
-Dutchess County, NY. 
-Orange County, NY. 
+1. Oxford County, ME. 
+2. Hillsborough County, NH. 
+3. Essex County, MA. 
+4. Suffolk County, MA. 
+5. Plymouth County, MA. 
+6. Barnstable County, MA. 
+7. Bristol County, MA. 
+8. Newport County, RI. 
+9. Washington County, RI. 
+10. New London County, CT. 
+11. Middlesex County, CT. 
+12. New Haven County, CT. 
+13. Fairfield County, CT. 
+14. Westchester County, NY. 
+15. Bronx County, NY. 
+16. New York County, NY. 
+17. Bergen County, NJ. 
+18. Essex County, NJ. 
+19. Union County, NJ. 
+20. Middlesex County, NJ. 
+21. Mercer County, NJ. 
+22. Philadelphia County, PA. 
+23. Delaware County, PA. 
+24. New Castle County, DE. 
+25. Cecil County, MD. 
+26. Harford County, MD. 
+27. Baltimore County, MD. 
+28. Middlesex County, MA. 
+29. Worcester County, MA. 
+30. Hampden County, MA. 
+31. Hartford County, CT. 
+32. Litchfield County, CT. 
+33. Putnam County, NY. 
+34. Rockland County, NY. 
+35. Dutchess County, NY. 
+36. Orange County, NY. 
 
            Person 
            ------ 
@@ -604,8 +598,8 @@ on your work's kind?
 the collection of the first stories is 
  language's brain and mind. 
 pay attention to the silent, practicing 
- a limp mind: 
-before the beginning... owld nick is 
+ a loose and limp: body and mind: 
+before the beginning... Owld Nick is 
  whom the patient find, 
 speaking spells 
 from heaven or hell. 
@@ -614,31 +608,34 @@ from heaven or hell.
            Epilogue 
            -------- 
 
+           Contents 
+           -------- 
 
+Introduction 
+Routine                              D. 
+Gambling                             E. 
+Consultation                         F. 
+Workshop                             G. 
 
-Introduction                         W. 
-Preface                              X. 
-Counties                             Y. 
-Person                               Z. 
-Table                                A. 
-Mysticism                            B. 
-Epilogue 
- Routine                             C. 
- Gambling                            D. 
- Consultation                        E. 
- Workshop                            F. 
+           Introduction 
+           ------------ 
 
+The following contents cover my Life's 
 
            Routine 
            -------- 
 
+A. 
 
            Gambling 
            -------- 
 
+B. 
 
            Consultation 
            ------------ 
+
+C. 
 
            Macroscale Model 
 
@@ -747,12 +744,14 @@ s.t. Edge{i in D}: sum{j in D:i<j}(x[i,j]) + sum{j in D:i>j}(x[j,i]) = b[i];
 
            Square 
 
+E. 
 1. AZ Square. 
 2. Word Generator. 
 3. Writer's Challenge. 
 
            Playlist 
 
+F. 
 1. Tobey by Eminem, Big Sean, and 
    BabyTron. 
 2. Kumbaya by Hopsin. 
