@@ -623,9 +623,9 @@ Workshop                             G.
            Introduction 
            ------------ 
 
-The following contents cover more exact 
-details of Practices for another Body to 
-recreate or restructure. 
+The following contents cover more 
+details of Greanleaf Practices for 
+another Body to reuse. 
 
            Routine 
            -------- 
@@ -636,14 +636,40 @@ A.
            -------- 
 
 B. 
+NASDAQ 
+         Open to 
+         Close, 
+         Pricing, 
+         Daily. 
+From	         To 
+         8/25/2016        8/24/2026 
+Daily Bet           Return 
+         $100             $49 
+         $1,000           $493 
+         $10,000          $4,934 
+         $100,000         $49,340 
+         $1,000,000       $493,400 
+
+C. 
+Boxing 
+         Favored 
+         Fighter 
+         wins. 
+Matches 
+         387,427 
+Match Bet           Return 
+         $100             $25,589,500 
+         $1,000           $318,349,000 
+         $10,000          $1,284,310,000 
+         $100,000         $11,106,500,000 
+         $1,000,000       -$118,147,000,000 
 
            Consultation 
            ------------ 
 
-C. 
-
            Macroscale Model 
 
+C. 
 # Stage.mod 
 #            Facilities Planning  
 #            ------------------- 
@@ -705,6 +731,7 @@ s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[
 
            Microscale Model 
 
+D. 
 # Flow.mod 
 #            B-Matching Model 
 #            ---------------- 
@@ -713,7 +740,7 @@ s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[
 # the distance between separate work 
 # places such that information flow 
 # actually triggers the material flow 
-# that is neccessary for the people 
+# that is necessary for the people 
 # and things of each work place to 
 # survive and sustain. 
 
