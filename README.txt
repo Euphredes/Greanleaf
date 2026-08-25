@@ -18,9 +18,9 @@ Version: euphredes==0.1.0rc1
            -------- 
 
 Introduction 
-Preface 
-Counties                             Y. 
-Person                               Z. 
+Preface                              I. 
+Counties                             II. 
+Person                               III. 
 Table                                A. 
 Mysticism                            B. 
 Epilogue 
@@ -45,6 +45,7 @@ by Crossing a Line.
            Preface 
            ------- 
 
+I. 
 Gambit is a part travel journal, part 
 engineering notebook, part 
 philosophical commonplace book. An 
@@ -150,6 +151,7 @@ alone.
            Counties 
            -------- 
 
+II. 
 1. Oxford County, ME. 
 2. Hillsborough County, NH. 
 3. Essex County, MA. 
@@ -192,6 +194,7 @@ alone.
 
            Background 
 
+III. 
 Experienced Scientific Programmer with 
 a demonstrated history of working in 
 Computer Software for over ten 
@@ -371,7 +374,7 @@ Training Center of The Great Rock
    unload: the case of the epic poet. 
 3. answer to one of the questions of 
    consciousness: a fugitive. 
-4. i caught you nihilist: only thoughts 
+4. I caught you nihilist: only thoughts 
    had while walking have value. 
 
            Tabletop 
@@ -424,12 +427,12 @@ Respect:
            Nonmaterial 
 
 I. 
-i just want to feed on and support the 
+I just want to feed on and support the 
 nonmaterial... something like invisible 
 water. 
 
 II. 
-i don't want to betray her with other 
+I don't want to betray her with other 
 relations. 
 
 III. 
@@ -446,30 +449,30 @@ where
 this train only moves forward. 
 
 VI. 
-when walking, i envision orbs of light 
+when walking, I envision orbs of light 
 being absorbed into my body. 
 
 VII. 
-when sitting or laying down, i envision 
+when sitting or laying down, I envision 
 the tides of the beach being absorbed 
 into my body. 
 
 VIII. 
-when sitting or laying down, i envision 
+when sitting or laying down, I envision 
 being bound by chains into stillness. 
 
 IX. 
-walking is how i earn what i show up for. 
+walking is how I earn what I show up for. 
 
 X. 
-i let my body and mind become loose or 
+I let my body and mind become loose or 
 limp, so she can control my motor skills. 
 
 XI. 
-i scratch and rub something to charge it. 
+I scratch and rub something to charge it. 
 
 XII. 
-whenever i tap on something, there must 
+whenever I tap on something, there must 
 be words assigned to each motion. this 
 builds a secure connection between me 
 and her. 
@@ -480,17 +483,17 @@ builds a secure connection between me
 and her. this charges the desire. 
 
 XIV. 
-what i place attention on will create 
-protection against what i don't place 
+what I place attention on will create 
+protection against what I don't place 
 attention on. 
 
 XV. 
-i sway my shoulders left and right such 
+I sway my shoulders left and right such 
 that my head to feet feel like a flower 
 in the breeze. 
 
 XVI. 
-i leave things behind as an exchange 
+I leave things behind as an exchange 
 system. 
 
            Songs 
@@ -500,12 +503,12 @@ smoke on the water,
 and it tells me: 
 to breathe easy for awhile. 
 seeing gets harder. 
-even i 
+even I 
 know 
 that. 
 make room for me. 
 it's too soon to see, 
-if i'm happy in your lands. 
+if I'm happy in your lands. 
 unusually, 
 these feet 
 find 
@@ -535,7 +538,7 @@ a curse that hurts
 will haunt their worth. 
 
 II. 
-i live low 
+I live low 
 to feel glow. 
 bewitch me 
 to enrich me. 
@@ -556,7 +559,7 @@ VI.
 a feeling is coming: 
 it glows like humming, 
 like understanding budding. 
-i love her. 
+I love her. 
 
 VII. 
 skin walker's chance: 
@@ -620,7 +623,9 @@ Workshop                             G.
            Introduction 
            ------------ 
 
-The following contents cover my Life's 
+The following contents cover more exact 
+details of Practices for another Body to 
+recreate or restructure. 
 
            Routine 
            -------- 
@@ -662,9 +667,9 @@ set W;                                              # set of wastes
 # ---- define parameter(s) ----
 
 param net{N,M} default 0;                           # net flow of material at a node
-param d{(i,j) in A} default 0;                      # arc distance
-param cap{(i,j) in A} default 0;                    # arc material flow capacity
-param seta{(i,j) in A} := 500 + (0.30 * d[i,j]);    # cost to use (ie. setup) an arc
+param d{(I,j) in A} default 0;                      # arc distance
+param cap{(I,j) in A} default 0;                    # arc material flow capacity
+param seta{(I,j) in A} := 500 + (0.30 * d[I,j]);    # cost to use (ie. setup) an arc
 param setf{F};                                      # cost to setup a facility
 param setw{W};                                      # cost to setup a waste
 param con{F};                                       # conversion constant (ie. how much waste is produced for every unit of product)
@@ -674,24 +679,24 @@ param c{M};                                         # material travel unit cost
 
 var openf{F} binary;                                # a facility is/isnt setup
 var openw{W} binary;                                # a waste is/isnt setup
-var opena{(i,j) in A} binary;                       # an arc is/isnt setup
-var x{(i,j) in A, M} >= 0;                          # material flow on an arc
+var opena{(I,j) in A} binary;                       # an arc is/isnt setup
+var x{(I,j) in A, M} >= 0;                          # material flow on an arc
 
 # ---- define objective function(s) ----
 
-minimize Cost: sum{i in F}(setf[i] * openf[i]) + sum{i in W}(setw[i] * openw[i]) + sum{(i,j) in A: i < 11 and j < 11}(seta[i,j] * opena[i,j]) + sum{(i,j) in A, k in M}(c[k] * d[i,j] * x[i,j,k]);
+minimize Cost: sum{I in F}(setf[I] * openf[I]) + sum{I in W}(setw[I] * openw[I]) + sum{(I,j) in A: I < 11 and j < 11}(seta[I,j] * opena[I,j]) + sum{(I,j) in A, k in M}(c[k] * d[I,j] * x[I,j,k]);
 
 # ---- define constraint(s) ----
 
-s.t. Demand{i in C, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) = net[i,k];
-s.t. Production{i in F, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) >= net[i,k] * openf[i];
-s.t. Disposal{i in W, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) <= net[i,k] * openw[i];
-s.t. Capacity{(i,j) in A}: sum{k in M}(x[i,j,k]) <= cap[i,j] * opena[i,j];
-s.t. Conversion{i in F}: sum{(i,j) in A}(x[i,j,2]) = sum{(i,j) in A}(con[i] * x[i,j,1]);
+s.t. Demand{I in C, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) = net[I,k];
+s.t. Production{I in F, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) >= net[I,k] * openf[I];
+s.t. Disposal{I in W, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) <= net[I,k] * openw[I];
+s.t. Capacity{(I,j) in A}: sum{k in M}(x[I,j,k]) <= cap[I,j] * opena[I,j];
+s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[I,j,1]);
 
 # ---- define assumption(s) ----
 
-# there is a (500 + 0.30*model.d[i,j]) 
+# there is a (500 + 0.30*model.d[I,j]) 
 # usage cost from the perspective of 
 # the arcs, not the facilities.. so 
 # if two facilities use one arc, 
@@ -719,25 +724,25 @@ set D:=0..num;                                                                  
 
 # ---- define parameter(s) ----
 
-param l{i in D};                                                                                                # length dimension of i 
-param h{i in D};                                                                                                # height dimension of i 
-param b{i in D}:= 2*(l[i]+h[i]);                                                                                # perimeter of i 
-param f{i in D,j in D:i<j} default 0;                                                                           # flow between Dept i & j 
-param lb{i in D, j in D:i<j} default 0;                                                                         # lower bound edge contact between i & j 
-param ub{i in D, j in D:i<j}:= if(i==0) then(b[j] - min(l[j],h[j])) else min(max(l[i],h[i]),max(l[j],h[j]));    # upper bound edge contact between i & j 
-param w{i in D,j in D:i<j}:= if ub[i,j]>0 then f[i,j]/ub[i,j] else 0;                                           # weighted adjacency between i & j 
+param l{I in D};                                                                                                # length dimension of I 
+param h{I in D};                                                                                                # height dimension of I 
+param b{I in D}:= 2*(l[I]+h[I]);                                                                                # perimeter of I 
+param f{I in D,j in D:I<j} default 0;                                                                           # flow between Dept I & j 
+param lb{I in D, j in D:I<j} default 0;                                                                         # lower bound edge contact between I & j 
+param ub{I in D, j in D:I<j}:= if(I==0) then(b[j] - min(l[j],h[j])) else min(max(l[I],h[I]),max(l[j],h[j]));    # upper bound edge contact between I & j 
+param w{I in D,j in D:I<j}:= if ub[I,j]>0 then f[I,j]/ub[I,j] else 0;                                           # weighted adjacency between I & j 
 
 # ---- define variable(s) ----
 
-var x{i in D, j in D:i<j} >=lb[i,j], <=ub[i,j], integer;                                                        # edge contact between i & j 
+var x{I in D, j in D:I<j} >=lb[I,j], <=ub[I,j], integer;                                                        # edge contact between I & j 
 
 # ---- define objective function(s) ----
 
-maximize Adjacency: sum{i in D, j in D:i<j}(w[i,j]*x[i,j]); 
+maximize Adjacency: sum{I in D, j in D:I<j}(w[I,j]*x[I,j]); 
 
 # ---- define constraint(s) ----
 
-s.t. Edge{i in D}: sum{j in D:i<j}(x[i,j]) + sum{j in D:i>j}(x[j,i]) = b[i]; 
+s.t. Edge{I in D}: sum{j in D:I<j}(x[I,j]) + sum{j in D:I>j}(x[j,I]) = b[I]; 
 
            Workshop 
            -------- 
