@@ -18,7 +18,7 @@ Version: euphredes==0.1.0rc1
            -------- 
 
 Introduction 
-Preface                              X. 
+Preface 
 Counties                             Y. 
 Person                               Z. 
 Table                                A. 
