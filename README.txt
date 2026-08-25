@@ -483,18 +483,18 @@ XXIV.
 I scratch and rub something to charge it. 
 
 XXV. 
-whenever I tap on something, there must 
-be words assigned to each motion. this 
+Whenever I tap on something, there must 
+be words assigned to each motion. This 
 builds a secure connection between me 
 and her. 
 
 XXVI. 
-humming, chanting, and singing. this 
+Humming, chanting, and singing; this 
 builds a secure connection between me 
-and her. this charges the desire. 
+and her. This charges the desire. 
 
 XXVII. 
-what I place attention on will create 
+What I place attention on will create 
 protection against what I don't place 
 attention on. 
 
@@ -634,7 +634,7 @@ Workshop                             VLIII.
            ------------ 
 
 The following contents cover more 
-details of Greanleaf Practices for 
+details of Greanleaf practices for 
 another Body to reuse. 
 
            Routine 
@@ -669,7 +669,7 @@ XLIV.
 NASDAQ 
          Open to 
          Close, 
-         Pricing, 
+         Prices, 
          Daily. 
 From	         To 
          8/25/2016        8/24/2026 
@@ -684,7 +684,7 @@ VL.
 Boxing 
          Favored 
          Fighter 
-         wins. 
+         Wins. 
 Matches 
          387,427 
 Match Bet           Return 
@@ -701,8 +701,7 @@ Match Bet           Return
 
 VLI. 
 # Stage.mod 
-#            Facilities Planning  
-#            ------------------- 
+#            Facilities Planning 
 
 # this model is intended to minimize 
 # the total cost of investing in a 
@@ -764,7 +763,6 @@ s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[
 VLII. 
 # Flow.mod 
 #            B-Matching Model 
-#            ---------------- 
 
 # this model is intended to minimize 
 # the distance between separate work 
@@ -807,17 +805,90 @@ s.t. Edge{I in D}: sum{j in D:I<j}(x[I,j]) + sum{j in D:I>j}(x[j,I]) = b[I];
            Square 
 
 VLIII. 
-AZ Square. 
+A J B K C L  
+ S   T   U 
+D M E N F O 
+ V   W   X 
+G P H Q  I 
+ Y   Z   R 
 
            Generator 
 
 IL. 
-Word Generator. 
+1 A J S 
+2 B K T 
+3 C L U 
+4 D M V 
+5 E N W 
+6 F O X 
+7 G P Y 
+8 H Q Z 
+9 I R 
 
-           Challenge
+           Bank 
 
 L. 
-Writer's Challenge. 
+Set your intension on some topic, 
+say, "criminal." Now, map each letter 
+of the topic to numbers one through 
+nine: 
+
+criminal = 39949513 
+
+Now, keep adding two numbers together 
+to ultimately reduce "criminal" to a 
+single number: 
+
+3 + 9 = 12 
+9 + 4 = 13 
+9 + 5 = 14 
+1 + 3 = 4 
+
+criminal = 1213144 
+
+1 + 2 = 3 
+1 + 3 = 4 
+1 + 4 = 5 
+4 = 4 
+
+criminal = 3454 
+
+3 + 4 = 7 
+5 + 4 = 9 
+
+criminal = 79 
+
+7 + 9 = 16 
+
+criminal = 16 
+
+1 + 6 = 7 
+
+criminal = 7 
+
+Now, map the single number to the 
+Generator: 
+
+7 = G, P, or Y 
+
+Now, come up with a word related to the 
+topic, "criminal," that starts with one 
+of the available letters that the topic 
+points to: 
+
+G -> gypsy 
+
+At this point, there are two words in 
+the Bank: "criminal" and "gypsy." Reduce 
+"gypsy" to a single number in the same 
+aforeshown manner, to then point to 
+a set of letters, to then come up with 
+another word for the Bank. 
+
+After you have created a word Bank for 
+your liking, write a poem using those 
+words that are supported by the 
+Square. 
 
            Playlist 
 
@@ -836,7 +907,7 @@ LI.
 9. Careless Whisper by George 
    Michael. 
 10. (Sittin' On) The Dock Of The 
-   Bay by Otis Redding. 
+    Bay by Otis Redding. 
 11. Midnight Rider by Willie 
     Nelson. 
 
