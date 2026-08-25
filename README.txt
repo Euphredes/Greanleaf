@@ -212,7 +212,7 @@ history of creative writing for over
 fifteen years. Strong and sensitive 
 thinker with thousands of words 
 expressed in various structures 
-from: my diverse life experiences, as 
+from: diverse life experiences, as 
 well as careful reading and listening. 
 
 Past Master Councilor of John Greenleaf 
@@ -377,6 +377,7 @@ Training Center of The Great Rock
            Legs 
 
 XI. 
+From Nietzsche: 
 1. There is an artist after my heart: he, 
    really, only wants two things: food 
    and witchcraft. 
@@ -390,9 +391,10 @@ XI.
            Tabletop 
 
 XII. 
+From myself: 
 Smack Dubliners and A Portrait of the Artist 
  as a Young Man--And Other Works: at the 
- embossed minting outside of the Masonic 
+ minting outside of the Masonic 
  Temple in downtown Nashua by the 
  Nashua River in New Hampshire. 
 Pitch a water bottle at the Liberty Bell 
@@ -451,7 +453,7 @@ XVI.
 Negate the rest as passage to her. 
 
 XVII. 
-Attitude starts at the destination. it's 
+Attitude starts at the destination. It's 
 only a matter of physical demonstration 
 to get my body there. 
 
@@ -617,7 +619,7 @@ pay attention to the silent, practicing
 before the beginning... Owld Nick is 
  whom the patient find, 
 speaking spells 
-from heaven or hell. 
+from Heaven or Hell. 
 
            Epilogue 
            -------- 
@@ -654,10 +656,10 @@ Halfway House.
 XLII. 
 Food Bank. 
 Library. 
-Food Bank. 
 River. 
 
 XLIII. 
+Arch. 
 Walnut. 
 Chestnut. 
 Radio. 
@@ -667,10 +669,11 @@ Race.
            -------- 
 
 XLIV. 
-NASDAQ 
+NASDAQ  
          Open to 
          Close, 
-         Prices, 
+         Price 
+         Increases, 
          Daily. 
 From	         To 
          8/25/2016        8/24/2026 
@@ -682,7 +685,7 @@ Daily Bet           Return
          $1,000,000       $493,400 
 
 VL. 
-Boxing 
+Boxing  
          Favored 
          Fighter 
          Wins. 
@@ -711,48 +714,48 @@ VLI.
 # places, to supply a set of 
 # people, and dispose all waste. 
 
-# ---- define set(s) ----
+# ---- define set(s) ---- 
 
-set N;                                              # set of all nodes (ie. consumers, facilities, wastes)
-set A := N cross N;                                 # set of arcs
-set M;                                              # set of materials (ie. product, waste)
-set C;                                              # set of consumers
-set F;                                              # set of facilities
-set W;                                              # set of wastes
+set N;                                              # set of all nodes (ie. consumers, facilities, wastes) 
+set A := N cross N;                                 # set of arcs 
+set M;                                              # set of materials (ie. product, waste) 
+set C;                                              # set of consumers 
+set F;                                              # set of facilities 
+set W;                                              # set of wastes 
 
-# ---- define parameter(s) ----
+# ---- define parameter(s) ---- 
 
-param net{N,M} default 0;                           # net flow of material at a node
-param d{(I,j) in A} default 0;                      # arc distance
-param cap{(I,j) in A} default 0;                    # arc material flow capacity
-param seta{(I,j) in A} := 500 + (0.30 * d[I,j]);    # cost to use (ie. setup) an arc
-param setf{F};                                      # cost to setup a facility
-param setw{W};                                      # cost to setup a waste
-param con{F};                                       # conversion constant (ie. how much waste is produced for every unit of product)
-param c{M};                                         # material travel unit cost
+param net{N,M} default 0;                           # net flow of material at a node 
+param d{(i,j) in A} default 0;                      # arc distance 
+param cap{(i,j) in A} default 0;                    # arc material flow capacity 
+param seta{(i,j) in A} := 500 + (0.30 * d[I,j]);    # cost to use (ie. setup) an arc 
+param setf{F};                                      # cost to setup a facility 
+param setw{W};                                      # cost to setup a waste 
+param con{F};                                       # conversion constant (ie. how much waste is produced for every unit of product) 
+param c{M};                                         # material travel unit cost 
 
-# ---- define variable(s) ----
+# ---- define variable(s) ---- 
 
-var openf{F} binary;                                # a facility is/isnt setup
-var openw{W} binary;                                # a waste is/isnt setup
-var opena{(I,j) in A} binary;                       # an arc is/isnt setup
-var x{(I,j) in A, M} >= 0;                          # material flow on an arc
+var openf{F} binary;                                # a facility is/isnt setup 
+var openw{W} binary;                                # a waste is/isnt setup 
+var opena{(i,j) in A} binary;                       # an arc is/isnt setup 
+var x{(i,j) in A, M} >= 0;                          # material flow on an arc 
 
-# ---- define objective function(s) ----
+# ---- define objective function(s) ---- 
 
-minimize Cost: sum{I in F}(setf[I] * openf[I]) + sum{I in W}(setw[I] * openw[I]) + sum{(I,j) in A: I < 11 and j < 11}(seta[I,j] * opena[I,j]) + sum{(I,j) in A, k in M}(c[k] * d[I,j] * x[I,j,k]);
+minimize Cost: sum{i in F}(setf[i] * openf[i]) + sum{i in W}(setw[i] * openw[i]) + sum{(i,j) in A: i < 11 and j < 11}(seta[i,j] * opena[i,j]) + sum{(i,j) in A, k in M}(c[k] * d[i,j] * x[i,j,k]); 
 
-# ---- define constraint(s) ----
+# ---- define constraint(s) ---- 
 
-s.t. Demand{I in C, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) = net[I,k];
-s.t. Production{I in F, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) >= net[I,k] * openf[I];
-s.t. Disposal{I in W, k in M}: sum{(n,I) in A}(x[n,I,k]) - sum{(I,j) in A}(x[I,j,k]) <= net[I,k] * openw[I];
-s.t. Capacity{(I,j) in A}: sum{k in M}(x[I,j,k]) <= cap[I,j] * opena[I,j];
-s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[I,j,1]);
+s.t. Demand{i in C, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) = net[i,k]; 
+s.t. Production{i in F, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) >= net[i,k] * openf[i]; 
+s.t. Disposal{i in W, k in M}: sum{(n,i) in A}(x[n,i,k]) - sum{(i,j) in A}(x[i,j,k]) <= net[i,k] * openw[i]; 
+s.t. Capacity{(i,j) in A}: sum{k in M}(x[i,j,k]) <= cap[i,j] * opena[i,j]; 
+s.t. Conversion{i in F}: sum{(i,j) in A}(x[i,j,2]) = sum{(i,j) in A}(con[i] * x[i,j,1]); 
 
-# ---- define assumption(s) ----
+# ---- define assumption(s) ---- 
 
-# there is a (500 + 0.30*model.d[I,j]) 
+# there is a (500 + 0.30*model.d[i,j]) 
 # usage cost from the perspective of 
 # the arcs, not the facilities.. so 
 # if two facilities use one arc, 
@@ -780,25 +783,25 @@ set D:=0..num;                                                                  
 
 # ---- define parameter(s) ----
 
-param l{I in D};                                                                                                # length dimension of I 
-param h{I in D};                                                                                                # height dimension of I 
-param b{I in D}:= 2*(l[I]+h[I]);                                                                                # perimeter of I 
-param f{I in D,j in D:I<j} default 0;                                                                           # flow between Dept I & j 
-param lb{I in D, j in D:I<j} default 0;                                                                         # lower bound edge contact between I & j 
-param ub{I in D, j in D:I<j}:= if(I==0) then(b[j] - min(l[j],h[j])) else min(max(l[I],h[I]),max(l[j],h[j]));    # upper bound edge contact between I & j 
-param w{I in D,j in D:I<j}:= if ub[I,j]>0 then f[I,j]/ub[I,j] else 0;                                           # weighted adjacency between I & j 
+param l{i in D};                                                                                                # length dimension of i 
+param h{i in D};                                                                                                # height dimension of i 
+param b{i in D}:= 2*(l[i]+h[i]);                                                                                # perimeter of i 
+param f{i in D,j in D:i<j} default 0;                                                                           # flow between Dept i & j 
+param lb{i in D, j in D:i<j} default 0;                                                                         # lower bound edge contact between i & j 
+param ub{i in D, j in D:i<j}:= if(i==0) then(b[j] - min(l[j],h[j])) else min(max(l[i],h[i]),max(l[j],h[j]));    # upper bound edge contact between i & j 
+param w{i in D,j in D:i<j}:= if ub[i,j]>0 then f[i,j]/ub[i,j] else 0;                                           # weighted adjacency between i & j 
 
-# ---- define variable(s) ----
+# ---- define variable(s) ---- 
 
-var x{I in D, j in D:I<j} >=lb[I,j], <=ub[I,j], integer;                                                        # edge contact between I & j 
+var x{i in D, j in D:i<j} >=lb[i,j], <=ub[i,j], integer;                                                        # edge contact between i & j 
 
-# ---- define objective function(s) ----
+# ---- define objective function(s) ---- 
 
-maximize Adjacency: sum{I in D, j in D:I<j}(w[I,j]*x[I,j]); 
+maximize Adjacency: sum{i in D, j in D:i<j}(w[i,j]*x[i,j]); 
 
-# ---- define constraint(s) ----
+# ---- define constraint(s) ---- 
 
-s.t. Edge{I in D}: sum{j in D:I<j}(x[I,j]) + sum{j in D:I>j}(x[j,I]) = b[I]; 
+s.t. Edge{i in D}: sum{j in D:i<j}(x[i,j]) + sum{j in D:i>j}(x[j,i]) = b[i]; 
 
            Workshop 
            -------- 
@@ -831,7 +834,7 @@ IL.
 L. 
 Set your intension on some topic, 
 say, "criminal." Now, map each letter 
-of the topic to numbers one through 
+of the topic to numbers: one through 
 nine: 
 
 criminal = 39949513 
