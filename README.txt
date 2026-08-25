@@ -1,49 +1,42 @@
-Thirty-Six Counties: 
-Oxford County, ME 
-Hillsborough County, NH 
-Essex County, MA 
-Suffolk County, MA 
-Plymouth County, MA 
-Barnstable County, MA 
-Bristol County, MA 
-Newport County, RI 
-Washington County, RI 
-New London County, CT 
-Middlesex County, CT 
-New Haven County, CT 
-Fairfield County, CT 
-Westchester County, NY 
-Bronx County, NY 
-New York County, NY 
-Bergen County, NJ 
-Essex County, NJ 
-Union County, NJ 
-Middlesex County, NJ 
-Mercer County, NJ 
-Philadelphia County, PA 
-Delaware County, PA 
-New Castle County, DE 
-Cecil County, MD 
-Harford County, MD 
-Baltimore County, MD 
-Middlesex County, MA 
-Worcester County, MA 
-Hampden County, MA 
-Hartford County, CT 
-Litchfield County, CT 
-Putnam County, NY 
-Rockland County, NY 
-Dutchess County, NY 
-Orange County, NY 
+           ---------- 
+           Publishing 
+           ---------- 
+
+Licensing: Content in this text file 
+           is licensed under a Creative 
+           Commons Attribution 4.0 
+           International license. 
+Author: euphredes dillinger. 
+Release: Tuesday, August 25th 2026. 
+Location: Philadelphia, PA. 
+Version: euphredes==0.1.0rc1 
 
            --------- 
            Greanleaf 
            --------- 
 
-The following Sections cover my Life's 
-Work to Justify Non-Revenue Mystical 
-Practices, collectively known as 
-Greanleaf. 
+           Contents 
+           -------- 
+
+Introduction                         W. 
+Preface                              X. 
+Counties                             Y. 
+Person                               Z. 
+Table                                A. 
+Mysticism                            B. 
+Epilogue 
+ Routine                             C. 
+ Gambler                             D. 
+ Consultant                          E. 
+ Workshop                            F. 
+ Playlist                            G. 
+
+           Introduction 
+           ------------ 
+
+The following contents cover my Life's 
+Work to Justify Non-Revenue Practices, 
+collectively known as Greanleaf. 
 
 Logically, these practices everyday 
 yield a Body-for-Body Exchange 
@@ -55,27 +48,15 @@ for another Body to improve. Notice:
 in any Military, each Badge is Earned 
 by Crossing a Line. 
 
-
-
-
-
-
-
-
-
-
-           ------- 
            Preface 
-           Gambit 
            ------- 
 
-
-Part travel journal, part engineering 
-notebook, part philosophical 
-commonplace book. An uncompromising 
-record of one person's attempt to 
-design a life through observation 
-rather than advice. 
+Gambit is a part travel journal, part 
+engineering notebook, part 
+philosophical commonplace book. An 
+uncompromising record of one person's 
+attempt to design a life through 
+observation rather than advice. 
 
 The project is open-source and 
 intended as a hand-to-hand delivery: 
@@ -172,24 +153,54 @@ Its authority comes from continued
 enactment rather than declaration 
 alone. 
 
+           Counties 
+           -------- 
 
+Oxford County, ME. 
+Hillsborough County, NH. 
+Essex County, MA. 
+Suffolk County, MA. 
+Plymouth County, MA. 
+Barnstable County, MA. 
+Bristol County, MA. 
+Newport County, RI. 
+Washington County, RI. 
+New London County, CT. 
+Middlesex County, CT. 
+New Haven County, CT. 
+Fairfield County, CT. 
+Westchester County, NY. 
+Bronx County, NY. 
+New York County, NY. 
+Bergen County, NJ. 
+Essex County, NJ. 
+Union County, NJ. 
+Middlesex County, NJ. 
+Mercer County, NJ. 
+Philadelphia County, PA. 
+Delaware County, PA. 
+New Castle County, DE. 
+Cecil County, MD. 
+Harford County, MD. 
+Baltimore County, MD. 
+Middlesex County, MA. 
+Worcester County, MA. 
+Hampden County, MA. 
+Hartford County, CT. 
+Litchfield County, CT. 
+Putnam County, NY. 
+Rockland County, NY. 
+Dutchess County, NY. 
+Orange County, NY. 
 
-
-
-
-
-
-
-
-
-
-
+           Person 
+           ------ 
 
            Background 
 
 Experienced Scientific Programmer with 
 a demonstrated history of working in 
-Computer Software for over seven 
+Computer Software for over ten 
 years. Strong Engineering Professional 
 with a Bachelor of Science and a 
 Master of Engineering, both, in 
@@ -200,7 +211,7 @@ Institute of Technology.
 
 Experienced Poet with a demonstrated 
 history of Creative Writing for over 
-seven years. Strong and Sensitive 
+fifteen years. Strong and Sensitive 
 Thinker with thousands of words 
 written in various Writing Structures 
 from: my Diverse Life Experiences, as 
@@ -218,7 +229,146 @@ de Molay himself. In pop culture terms,
 I'm well-trained by the Free Masons 
 through their "Illuminati Bootcamp." 
 
+           Mission 
+
+To Work wherever my Critical Thinking 
+skills can facilitate Contemporary 
+Solutions. In my Life's Work, I will 
+make Empirical decisions with the 
+combined understanding of Creative 
+Thinking, Psychology, and Philosophy 
+to describe and demonstrate: key 
+patterns. 
+
+           Strengths 
+
+Machine Learning in Python and R. 
+Optimization in Python and AMPL. 
+Back-end Programming in Python. 
+Familiar with SQL and Bash. 
+Psychological and Philosophical 
+ awareness of the Human Condition. 
+Passionate about Authenticity, 
+ Fordism, Caretaking, and Nobility. 
+Secure and Silent with the 
+ Determination to Speak Assertively, 
+ yet Caringly when Necessary. 
+I say: any Try deserves as much 
+ Respect as the Complaints. 
+I give anyone my Honesty because I 
+ am not a Coward over what One may 
+ do with it. 
+I walk Poetry Outside by serious 
+ means. 
+I walk Industrial Engineering 
+ Outside by serious means. 
+I Ambulate with the Intension of it 
+ not being Circular, as though the 
+ ground-floor of America were some 
+ Masonic Puzzle. 
+
+           Weaknesses 
+
+High Sensitivity Profile. 
+All-or-Nothing Thinker. 
+Burner of Bridges. 
+Eager with Irish Goodbyes. 
+Willing to Positively Reinforce 
+ anything. 
+Eager to drink Beer. 
+Eager to smoke Tobacco. 
+Eager to smoke Weed. 
+I find Money too Poisonous against 
+ Work. 
+I find too much Slander against 
+ Trying. 
+I find Mystical Experiences 
+ triggered by Acoustics. 
+I find Mystical Experiences 
+ Discernable by Haptics. 
+
+           Schoolmanship 
+ 
+Central Catholic Highschool in 
+ Lawrence Massachusetts. 
+Rochester Institute of Technology in 
+ Rochester New York. 
+AA Big Book Meetings in the 
+ Merrimack Valley of Massachusetts, 
+ as well as Southern New Hampshire. 
+Student of Friedrich Nietzsche to 
+ acquire some Table of Values. 
+Student of Henry David Thoreau to 
+ demonstrate Walking Life without 
+ Income as some Sort of Crusade. 
+Lover of Emily Dickinson to find 
+ out about Mystical Experiences. 
+
+           Workmanship 
+
+Continuous Improvement Engineer 
+ (Intern) at JMA Wireless in 
+ Liverpool New York. 
+Product Management Analyst 
+ (Intern) at Mercury Systems in 
+ Chelmsford Massachusetts. 
+Simulation Modeler (Student) at 
+ Rochester Institute of Technology in 
+ Rochester New York for the United 
+ States Department of Defense. 
+Data Analyst (Intern) at Geisinger 
+ Health in Danville Pennsylvania. 
+Data Scientist (Intern) at Geisinger 
+ Health in Danville Pennsylvania. 
+Researcher (Student) at Rochester 
+ Institute of Technology in Rochester 
+ New York for the Bill and Melinda 
+ Gates Foundation. 
+Data Scientist at Aspen Technology in 
+ Bedford Massachusetts. 
+Data Analytics Engineer at 
+ FacilityConneX in Nashua New 
+ Hampshire. 
+Digital Creator of Mixtapes on 
+ SoundCloud, Scientific Engines 
+ on GitHub, and Individual 
+ Sovereignty. 
+Walker of Thirty-Six Counties in 
+ America to Discipline my Mind,  
+ Foster my Mysticism, and Deliver 
+ Journals of how I think and feel to 
+ Assert: Labor independently Justifies 
+ Labor Economics, which Yields such 
+ Practices as Contribution to 
+ America's Economics. 
+
+           Detention 
+
+Ten Psychiatric Evaluations across 
+ Massachusetts, Connecticut, New York, 
+ New Jersey, Pennsylvania, and 
+ Maryland. 
+Bridgewater State Hospital in 
+ Bridgewater Massachusetts. 
+Worcester Recovery Center in 
+ Worcester Massachusetts. 
+Middleton Correctional Facility in 
+ Middleton Massachusetts. 
+
+           Programs 
+
+Two Halfway Houses in Boston 
+ Massachusetts. 
+An additional Sixteen Recovery 
+ Programs around the Greater Boston 
+ Area of Massachusetts. 
+Training Center of The Great Rock 
+ Church in Danvers Massachusetts. 
+
            Table 
+           ----- 
+
+           Legs 
 
 1. there is an artist after my heart: he, 
    really, only wants two things: food 
@@ -230,7 +380,7 @@ through their "Illuminati Bootcamp."
 4. i caught you nihilist: only thoughts 
    had while walking have value. 
 
-           Circle 
+           Tabletop 
 
 Smack Dubliners and A Portrait of the Artist 
  as a Young Man--And Other Works: at the 
@@ -262,6 +412,9 @@ Nashua Spellwork: The Starting Point is
  Pennsylvania. Such Spellwork only 
  affords me space from New England to 
  Philadelphia Pennsylvania. 
+
+           Mysticism 
+           --------- 
 
            Mindreaders 
 
@@ -457,157 +610,40 @@ before the beginning... owld nick is
 speaking spells 
 from heaven or hell. 
 
-           Mission 
-
-To Work wherever my Critical Thinking 
-skills can facilitate Contemporary 
-Solutions. In my Life's Work, I will 
-make Empirical decisions with the 
-combined understanding of Creative 
-Thinking, Psychology, and Philosophy 
-to describe and demonstrate: key 
-patterns. 
-
-           Strengths 
-
-Machine Learning in Python and R. 
-Optimization in Python and AMPL. 
-Back-end Programming in Python. 
-Familiar with SQL and Bash. 
-Psychological and Philosophical 
- awareness of the Human Condition. 
-Passionate about Authenticity, 
- Fordism, Caretaking, and Nobility. 
-Secure and Silent with the 
- Determination to Speak Assertively, 
- yet Caringly when Necessary. 
-I say: any Try deserves as much 
- Respect as the Complaints. 
-I give anyone my Honesty because I 
- am not a Coward over what One may 
- do with it. 
-I walk Poetry Outside by serious 
- means. 
-I walk Industrial Engineering 
- Outside by serious means. 
-I Ambulate with the Intension of it 
- not being Circular, as though the 
- ground-floor of America were some 
- Masonic Puzzle. 
-
-           Weaknesses 
-
-High Sensitivity Profile. 
-All-or-Nothing Thinker. 
-Burner of Bridges. 
-Eager with Irish Goodbyes. 
-Willing to Positively Reinforce 
- anything. 
-Eager to drink Beer. 
-Eager to smoke Tobacco. 
-Eager to smoke Weed. 
-I find Money too Poisonous against 
- Work. 
-I find too much Slander against 
- Trying. 
-I find Mystical Experiences 
- triggered by Acoustics. 
-I find Mystical Experiences 
- Discernable by Haptics. 
-
-           Schoolmanship 
- 
-Central Catholic Highschool in 
- Lawrence Massachusetts. 
-Rochester Institute of Technology in 
- Rochester New York. 
-AA Big Book Meetings in the 
- Merrimack Valley of Massachusetts, 
- as well as Southern New Hampshire. 
-Student of Friedrich Nietzsche to 
- acquire some Table of Values. 
-Student of Henry David Thoreau to 
- demonstrate Walking Life without 
- Income as some Sort of Crusade. 
-Lover of Emily Dickinson to find 
- out about Mystical Experiences. 
-
-           Workmanship 
-
-Continuous Improvement Engineer 
- (Intern) at JMA Wireless in 
- Liverpool New York. 
-Product Management Analyst 
- (Intern) at Mercury Systems in 
- Chelmsford Massachusetts. 
-Simulation Modeler (Student) at 
- Rochester Institute of Technology in 
- Rochester New York for the United 
- States Department of Defense. 
-Data Analyst (Intern) at Geisinger 
- Health in Danville Pennsylvania. 
-Data Scientist (Intern) at Geisinger 
- Health in Danville Pennsylvania. 
-Researcher (Student) at Rochester 
- Institute of Technology in Rochester 
- New York for the Bill and Melinda 
- Gates Foundation. 
-Data Scientist at Aspen Technology in 
- Bedford Massachusetts. 
-Data Analytics Engineer at 
- FacilityConneX in Nashua New 
- Hampshire. 
-Digital Creator of Mixtapes on 
- SoundCloud, Scientific Engines 
- on GitHub, and Individual 
- Sovereignty. 
-Walker of Thirty-Six Counties in 
- America to Discipline my Mind,  
- Foster my Mysticism, and Deliver 
- Journals of how I think and feel to 
- Assert: Labor independently Justifies 
- Labor Economics, which Yields such 
- Practices as Contribution to 
- America's Economics. 
-
-           Detention 
-
-Bridgewater State Hospital in 
- Bridgewater Massachusetts. 
-Worcester Recovery Center in 
- Worcester Massachusetts. 
-Middleton Correctional Facility in 
- Middleton Massachusetts. 
-
-           Programs 
-
-Two Halfway Houses in Boston 
- Massachusetts. 
-An additional Sixteen Recovery 
- Programs around the Greater Boston 
- Area of Massachusetts. 
-Training Center of The Great Rock 
- Church in Danvers Massachusetts. 
-
-           Social Order 
-
-Black Women Win. 
-Smart Ones fix. 
-I won't make the Rest of the List. 
+           -------- 
+           Epilogue 
+           -------- 
 
 
 
+Introduction                         W. 
+Preface                              X. 
+Counties                             Y. 
+Person                               Z. 
+Table                                A. 
+Mysticism                            B. 
+Epilogue 
+ Routine                             C. 
+ Gambling                            D. 
+ Consultation                        E. 
+ Workshop                            F. 
 
 
+           Routine 
+           -------- 
 
 
+           Gambling 
+           -------- 
 
 
+           Consultation 
+           ------------ 
 
+           Macroscale Model 
 
-#            ------------------- 
-#            Facilities Planning 
-#            Stage.mod 
+# Stage.mod 
+#            Facilities Planning  
 #            ------------------- 
 
 # this model is intended to minimize 
@@ -665,21 +701,10 @@ s.t. Conversion{i in F}: sum{(i,j) in A}(x[i,j,2]) = sum{(i,j) in A}(con[i] * x[
 # there is one usage cost not two 
 # usage costs for that particular arc. 
 
+           Microscale Model 
 
-
-
-
-
-
-
-
-
-
-
-
-#            ---------------- 
+# Flow.mod 
 #            B-Matching Model 
-#            Flow.mod 
 #            ---------------- 
 
 # this model is intended to minimize 
@@ -717,19 +742,30 @@ maximize Adjacency: sum{i in D, j in D:i<j}(w[i,j]*x[i,j]);
 
 s.t. Edge{i in D}: sum{j in D:i<j}(x[i,j]) + sum{j in D:i>j}(x[j,i]) = b[i]; 
 
+           Workshop 
+           -------- 
 
+           Square 
 
+1. AZ Square. 
+2. Word Generator. 
+3. Writer's Challenge. 
 
+           Playlist 
 
-
-
-
-
-
-
-
-
-
+1. Tobey by Eminem, Big Sean, and 
+   BabyTron. 
+2. Kumbaya by Hopsin. 
+3. ISIS by Joyner Lucas and Logic. 
+4. Five to One by The Doors. 
+5. Human by Christina Perri. 
+6. The Lonely by Christina Perri. 
+7. Careless Whisper by George 
+   Michael. 
+8. (Sittin' On) The Dock Of The 
+   Bay by Otis Redding. 
+9. Midnight Rider by Willie 
+   Nelson. 
 
            ***** 
             *** 
