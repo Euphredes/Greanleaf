@@ -21,8 +21,8 @@ Introduction
 Preface                              I. 
 Counties                             II. 
 Person                               III. 
-Table                                A. 
-Mysticism                            B. 
+Table                                XI. 
+Mysticism                            XIII. 
 Epilogue 
 
            Introduction 
@@ -228,6 +228,7 @@ through their "Illuminati Bootcamp."
 
            Mission 
 
+IV. 
 To Work wherever my Critical Thinking 
 skills can facilitate Contemporary 
 Solutions. In my Life's Work, I will 
@@ -239,6 +240,7 @@ patterns.
 
            Strengths 
 
+V. 
 Machine Learning in Python and R. 
 Optimization in Python and AMPL. 
 Back-end Programming in Python. 
@@ -266,6 +268,7 @@ I Ambulate with the Intension of it
 
            Weaknesses 
 
+VI. 
 High Sensitivity Profile. 
 All-or-Nothing Thinker. 
 Burner of Bridges. 
@@ -285,7 +288,8 @@ I find Mystical Experiences
  Discernable by Haptics. 
 
            Schoolmanship 
- 
+
+VII. 
 Central Catholic Highschool in 
  Lawrence Massachusetts. 
 Rochester Institute of Technology in 
@@ -303,6 +307,7 @@ Lover of Emily Dickinson to find
 
            Workmanship 
 
+VIII. 
 Continuous Improvement Engineer 
  (Intern) at JMA Wireless in 
  Liverpool New York. 
@@ -341,6 +346,7 @@ Walker of Thirty-Six Counties in
 
            Detention 
 
+IX. 
 Ten Psychiatric Inpatient Admissions 
  across Massachusetts, Connecticut, 
  New York, New Jersey, Pennsylvania, 
@@ -354,6 +360,7 @@ Middleton Correctional Facility in
 
            Programs 
 
+X. 
 Two Halfway Houses in Boston 
  Massachusetts. 
 An additional Sixteen Recovery 
@@ -367,6 +374,7 @@ Training Center of The Great Rock
 
            Legs 
 
+XI. 
 1. there is an artist after my heart: he, 
    really, only wants two things: food 
    and witchcraft. 
@@ -379,6 +387,7 @@ Training Center of The Great Rock
 
            Tabletop 
 
+XII. 
 Smack Dubliners and A Portrait of the Artist 
  as a Young Man--And Other Works: at the 
  embossed minting outside of the Masonic 
@@ -415,6 +424,7 @@ Nashua Spellwork: The Starting Point is
 
            Mindreaders 
 
+XIII. 
 Respect: 
 1. Love for Family and Friends. 
 2. Praise rarity. Protect rarity. 
@@ -426,79 +436,79 @@ Respect:
 
            Nonmaterial 
 
-I. 
+XIV. 
 I just want to feed on and support the 
 nonmaterial... something like invisible 
 water. 
 
-II. 
+XV. 
 I don't want to betray her with other 
 relations. 
 
-III. 
+XVI. 
 negate the rest as passage to her. 
 
-IV. 
+XVII. 
 attitude starts at the destination. it's 
 only a matter of physical demonstration 
 to get my body there. 
 
-V. 
+XVIII. 
 it is solved by walking 
 where 
 this train only moves forward. 
 
-VI. 
+XIX. 
 when walking, I envision orbs of light 
 being absorbed into my body. 
 
-VII. 
+XX. 
 when sitting or laying down, I envision 
 the tides of the beach being absorbed 
 into my body. 
 
-VIII. 
+XXI. 
 when sitting or laying down, I envision 
 being bound by chains into stillness. 
 
-IX. 
+XXII. 
 walking is how I earn what I show up for. 
 
-X. 
+XXIII. 
 I let my body and mind become loose or 
 limp, so she can control my motor skills. 
 
-XI. 
+XXIV. 
 I scratch and rub something to charge it. 
 
-XII. 
+XXV. 
 whenever I tap on something, there must 
 be words assigned to each motion. this 
 builds a secure connection between me 
 and her. 
 
-XIII. 
+XXVI. 
 humming, chanting, and singing. this 
 builds a secure connection between me 
 and her. this charges the desire. 
 
-XIV. 
+XXVII. 
 what I place attention on will create 
 protection against what I don't place 
 attention on. 
 
-XV. 
+XXVIII. 
 I sway my shoulders left and right such 
 that my head to feet feel like a flower 
 in the breeze. 
 
-XVI. 
+XXIX. 
 I leave things behind as an exchange 
 system. 
 
            Songs 
 
-I. 
+XXX. 
 smoke on the water, 
 and it tells me: 
 to breathe easy for awhile. 
@@ -514,7 +524,7 @@ these feet
 find 
 counties. 
 
-II. 
+XXXI. 
 who do you think you are? 
 running around, 
 chasing stars. 
@@ -526,46 +536,46 @@ inside of your soul.
 don't come back to me. 
 who do you think you are? 
 
-III. 
+XXXII. 
 yo, 
 ho: 
 a walking go... 
 
            Poems 
 
-I. 
+XXXIII. 
 a curse that hurts 
 will haunt their worth. 
 
-II. 
+XXXIV. 
 I live low 
 to feel glow. 
 bewitch me 
 to enrich me. 
 
-III. 
+XXXV. 
 haptics and acoustics 
 form our magyc. 
 
-IV. 
+XXXVI. 
 nothing more to solve. 
 be with her above all. 
 
-V. 
+XXXVII. 
 keep my attention inward. 
 that joyful feeling is forward. 
 
-VI. 
+XXXVIII. 
 a feeling is coming: 
 it glows like humming, 
 like understanding budding. 
 I love her. 
 
-VII. 
+XXXIX. 
 skin walker's chance: 
 let the sensations dance. 
 
-VIII. 
+XL. 
 in the beginning, 
 there was the word. 
 people let stories be told 
@@ -607,7 +617,6 @@ before the beginning... Owld Nick is
 speaking spells 
 from heaven or hell. 
 
-           -------- 
            Epilogue 
            -------- 
 
@@ -615,10 +624,10 @@ from heaven or hell.
            -------- 
 
 Introduction 
-Routine                              D. 
-Gambling                             E. 
-Consultation                         F. 
-Workshop                             G. 
+Routine                              XLI. 
+Gambling                             XLIV. 
+Consultation                         VLI. 
+Workshop                             VLIII. 
 
            Introduction 
            ------------ 
@@ -628,14 +637,34 @@ details of Greanleaf Practices for
 another Body to reuse. 
 
            Routine 
-           -------- 
+           ------- 
 
-A. 
+           Boston 
+
+XLI. 
+Detox. 
+CSS. 
+TSS. 
+Halfway House. 
+
+           Philly 
+
+XLII. 
+Food Bank. 
+Library. 
+Food Bank. 
+River. 
+
+XLIII. 
+Walnut. 
+Chestnut. 
+Radio. 
+Race. 
 
            Gambling 
            -------- 
 
-B. 
+XLIV. 
 NASDAQ 
          Open to 
          Close, 
@@ -650,7 +679,7 @@ Daily Bet           Return
          $100,000         $49,340 
          $1,000,000       $493,400 
 
-C. 
+VL. 
 Boxing 
          Favored 
          Fighter 
@@ -669,7 +698,7 @@ Match Bet           Return
 
            Macroscale Model 
 
-C. 
+VLI. 
 # Stage.mod 
 #            Facilities Planning  
 #            ------------------- 
@@ -731,7 +760,7 @@ s.t. Conversion{I in F}: sum{(I,j) in A}(x[I,j,2]) = sum{(I,j) in A}(con[I] * x[
 
            Microscale Model 
 
-D. 
+VLII. 
 # Flow.mod 
 #            B-Matching Model 
 #            ---------------- 
@@ -776,14 +805,22 @@ s.t. Edge{I in D}: sum{j in D:I<j}(x[I,j]) + sum{j in D:I>j}(x[j,I]) = b[I];
 
            Square 
 
-E. 
-1. AZ Square. 
-2. Word Generator. 
-3. Writer's Challenge. 
+VLIII. 
+AZ Square. 
+
+           Generator 
+
+IL. 
+Word Generator. 
+
+           Challenge
+
+L. 
+Writer's Challenge. 
 
            Playlist 
 
-F. 
+LI. 
 1. Tobey by Eminem, Big Sean, and 
    BabyTron. 
 2. Kumbaya by Hopsin. 
