@@ -826,15 +826,19 @@ LI.
    BabyTron. 
 2. Kumbaya by Hopsin. 
 3. ISIS by Joyner Lucas and Logic. 
-4. Five to One by The Doors. 
-5. Human by Christina Perri. 
-6. The Lonely by Christina Perri. 
-7. Careless Whisper by George 
+4. Lucky You by Eminem and Joyner 
+   Lucas. 
+5. Five to One by The Doors. 
+6. Look What You Made Me Do by Taylor 
+   Swift. 
+7. Human by Christina Perri. 
+8. The Lonely by Christina Perri. 
+9. Careless Whisper by George 
    Michael. 
-8. (Sittin' On) The Dock Of The 
+10. (Sittin' On) The Dock Of The 
    Bay by Otis Redding. 
-9. Midnight Rider by Willie 
-   Nelson. 
+11. Midnight Rider by Willie 
+    Nelson. 
 
            ***** 
             *** 
