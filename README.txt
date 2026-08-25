@@ -341,10 +341,10 @@ Walker of Thirty-Six Counties in
 
            Detention 
 
-Ten Psychiatric Evaluations across 
- Massachusetts, Connecticut, New York, 
- New Jersey, Pennsylvania, and 
- Maryland. 
+Ten Psychiatric Inpatient Admissions 
+ across Massachusetts, Connecticut, 
+ New York, New Jersey, Pennsylvania, 
+ and Maryland. 
 Bridgewater State Hospital in 
  Bridgewater Massachusetts. 
 Worcester Recovery Center in 
