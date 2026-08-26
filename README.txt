@@ -16,14 +16,28 @@ Location: Philadelphia, PA.
            Contents 
            -------- 
 
-Introduction 
-Prologue 
+Introduction                         . 
+Prologue                             . 
 Preface                              I. 
 Counties                             II. 
 Person                               III. 
+ Background                          III. 
+ Mission                             IV. 
+ Strengths                           V. 
+ Weaknesses                          VI. 
+ Schoolmanship                       VII. 
+ Workmanship                         VIII. 
+ Detention                           IX. 
+ Programs                            X. 
 Table                                XI. 
+ Legs                                XI. 
+ Tabletop                            XII. 
 Mysticism                            XIII. 
-Epilogue 
+ Mindreaders                         XIII. 
+ Nonmaterial                         XIV. 
+ Songs                               XXX. 
+ Poems                               XXXIII. 
+Epilogue                             XLI. 
 
            Introduction 
            ------------ 
@@ -664,10 +678,14 @@ from Heaven or Hell.
            Contents 
            -------- 
 
-Introduction 
+Introduction                         . 
 Routine                              XLI. 
+ Boston                              XLI. 
+ Philly                              XLII. 
 Gambling                             XLIV. 
 Consultation                         VLII. 
+ Macroscale                          VLIII. 
+ Microscale                          IL. 
 Workshop                             L. 
 
            Introduction 
@@ -675,7 +693,7 @@ Workshop                             L.
 
 The following contents cover more 
 details of Greanleaf practices for 
-another Body to reuse. 
+another body also to reuse. 
 
            Routine 
            ------- 
@@ -683,39 +701,39 @@ another Body to reuse.
            Boston 
 
 XLI. 
-The Center. 
-Detox. 
-CSS. 
-TSS. 
-Halfway House. 
+1. The Center. 
+2. Detox. 
+3. CSS. 
+4. TSS. 
+5. Halfway House. 
 
            Philly 
 
 XLII. 
-Food Bank. 
-Library. 
-River. 
+1. Food Bank. 
+2. Library. 
+3. River. 
 
 XLIII. 
-Arch. 
-Walnut. 
-Chestnut. 
-Radio. 
-Race. 
+1. Walnut. 
+2. Chestnut. 
+3. Arch. 
+4. Race. 
+5. Radio. 
 
            Gambling 
            -------- 
 
 XLIV. 
-Gambling is a strong mental model 
-for decison-making units: Bodies. 
+Gambling is a pragmatic, mental model 
+for decison-making units: bodies. 
 Gambling can be applied to any 
 stock or currency, and is applied 
 in competions like boxing. A simple 
-way to build a gambler's model, is 
+way to build a gambler's model: is 
 to increase the size of a person's 
 bets over a period of time and 
-events; in order to find out the 
+events, in order to find out the 
 desired bet that must be placed to 
 continue participating in the 
 exchange system. 
@@ -755,7 +773,7 @@ Match Bet           Return
 
 VLII. 
 As an industrial engineer, walking the 
-value stream on the groundfloor of 
+value stream on the ground-floor of 
 thirty-six counties, I have determined 
 that the information flow of media does 
 not sufficiently trigger material flow 
@@ -771,7 +789,7 @@ operational models serve to test the
 strength of macroeconomics and 
 microeconomics. 
 
-           Macroscale Model 
+           Macroscale 
 
 VLIII. 
 # Stage.mod 
@@ -832,7 +850,7 @@ s.t. Conversion{i in F}: sum{(i,j) in A}(x[i,j,2]) = sum{(i,j) in A}(con[i] * x[
 # there is one usage cost not two 
 # usage costs for that particular arc. 
 
-           Microscale Model 
+           Microscale 
 
 IL. 
 # Flow.mod 
@@ -905,7 +923,7 @@ LII.
 Set your intension on some topic, 
 say, "criminal." Now, map each letter 
 of the topic to numbers: one through 
-nine: 
+nine, using the Generator: 
 
 criminal = 39949513 
 
@@ -940,15 +958,14 @@ criminal = 16
 
 criminal = 7 
 
-Now, map the single number to the 
-Generator: 
+Now, map the single number to letters, 
+using the Generator: 
 
 7 = G, P, or Y 
 
 Now, come up with a word related to the 
 topic, "criminal," that starts with one 
-of the available letters that the topic 
-points to: 
+of the available letters: 
 
 G -> gypsy 
 
@@ -1027,14 +1044,14 @@ Poems
                             C 
 Pattern:     Endrhyme       Endrhyme       Speech           Meter
 
-Irish: 
+Irish Structure: 
 hot silver in her hair. 
 this gypsy is here and there: 
 rich in moons; 
 a dark woman wonders my moods; 
 my eyes gleam away from a stare. 
 
-English: 
+English Structure: 
 four green-wood beads. 
 I was given this suit. 
 brave to lead. 
@@ -1042,14 +1059,14 @@ criminal pursuits.
 not your joker. 
 not your mover. 
 
-Spanish: 
+Spanish Structure: 
 a wisp glowing under a swaying headway, 
 green-water energy from the albatross. 
 he fishes in the river for brook trout, 
 poorly dressed, without flying nor 
  trolling. 
 
-Japanese: 
+Japanese Structure: 
 five to one, walking straightaways. 
    all, nothing... 
 half-measures slower than mississippi. 
