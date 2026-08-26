@@ -1010,12 +1010,31 @@ Poems
 Pattern:     Endrhyme       Endrhyme       Speech           Meter
 
 Irish: 
+hot silver in her hair. 
+this gypsy is here and there: 
+rich in moons; 
+a dark woman wonders my moods; 
+my eyes gleam away from a stare. 
 
 English: 
+four green-wood beads. 
+I was given this suit. 
+brave to lead. 
+criminal pursuits. 
+not your joker. 
+not your mover. 
 
 Spanish: 
+a wisp glowing under a swaying headway, 
+green-water energy from the albatross. 
+he fishes in the river for brook trout, 
+poorly dressed, without flying nor 
+ trolling. 
 
 Japanese: 
+five to one, walking straightaways. 
+   all, nothing: 
+half-measures slower than mississippi. 
 
            Playlist 
 
