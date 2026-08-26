@@ -44,7 +44,7 @@ in any Military, each Badge is Earned
 by Crossing A Line. 
 
 The two optimization problems that 
-structure my life's work is 
+structure my life's work are 
 The Slitherlink Problem and 
 The Knapsack Problem. In commonplace 
 terms, I traverse a circuit while 
@@ -61,6 +61,10 @@ declared such verbally and with
 American Sign Language: start an 
 open-door DeMolay meeting, not recess. 
 I am the Sentinel. 
+
+In the hole at Middleton Correctional 
+Facility, I established a business 
+called: Greanleaf. 
 
            Preface 
            ------- 
@@ -696,7 +700,7 @@ NASDAQ
          Price 
          Increases, 
          Daily. 
-From          To 
+From                To 
          8/25/2016        8/24/2026 
 Daily Bet           Return 
          $100             $49 
