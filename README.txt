@@ -666,8 +666,8 @@ from Heaven or Hell.
 Introduction 
 Routine                              XLI. 
 Gambling                             XLIV. 
-Consultation                         VLI. 
-Workshop                             VLIII. 
+Consultation                         VLII. 
+Workshop                             L. 
 
            Introduction 
            ------------ 
@@ -716,7 +716,7 @@ to increase the size of a person's
 bets over a period of time and 
 events; in order to find out the 
 desired bet that must be placed to 
-continue participoating in the 
+continue participating in the 
 exchange system. 
 
 VL. 
