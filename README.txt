@@ -18,6 +18,7 @@ Version: euphredes==0.1.0rc1
            -------- 
 
 Introduction 
+Prologue 
 Preface                              I. 
 Counties                             II. 
 Person                               III. 
@@ -41,6 +42,25 @@ Exchange to survive. It is my Body
 for another Body to improve. Notice: 
 in any Military, each Badge is Earned 
 by Crossing A Line. 
+
+The two optimization problems that 
+structure my life's work is 
+The Slitherlink Problem and 
+The Knapsack Problem. In commonplace 
+terms, I traverse a circuit while 
+avoiding all obstacles, and I maximize 
+the value of my inventory without 
+breaking the backpack. 
+
+           Prologue 
+           -------- 
+
+In Bridgewater State Hospital, I cut a 
+deal with my cell camera in B112. I 
+declared such verbally and with 
+American Sign Language: start an 
+open-door DeMolay meeting, not recess. 
+I am the Sentinel. 
 
            Preface 
            ------- 
@@ -646,6 +666,7 @@ another Body to reuse.
            Boston 
 
 XLI. 
+The Center. 
 Detox. 
 CSS. 
 TSS. 
@@ -675,7 +696,7 @@ NASDAQ
          Price 
          Increases, 
          Daily. 
-From	         To 
+From          To 
          8/25/2016        8/24/2026 
 Daily Bet           Return 
          $100             $49 
@@ -883,16 +904,87 @@ points to:
 G -> gypsy 
 
 At this point, there are two words in 
-the Bank: "criminal" and "gypsy." Reduce 
+the bank: "criminal" and "gypsy." Reduce 
 "gypsy" to a single number in the same 
 aforeshown manner, to then point to 
 a set of letters, to then come up with 
-another word for the Bank. 
+another word for the bank. 
 
-After you have created a word Bank for 
+After you have created a word bank for 
 your liking, write a poem using those 
 words that are supported by the 
 Square. 
+
+I will continue the process of building 
+such a word bank: 
+
+gypsy 
+7777 -> 49 -> 13 -> 4 -> DMV 
+mover 
+46459 -> 199 -> 118 -> 1 -> AJS 
+joker 
+16259 -> 779 -> 59 -> 5 -> ENW 
+energy 
+555977 -> 6914 -> 65 -> 2 -> BKT 
+brave 
+29145 -> 255 -> 3 -> CLU 
+under 
+35459 -> 899 -> 89 -> 8 -> HQZ 
+hallucinations. 
+
+Now, I will pull words from a poem, 
+St. Gabriel in The Gypsy Ballads, 
+by Lorca: 
+
+hot silver. 
+don't forget the gypsies gave 
+ that suit to you. 
+rich in moons and poorly dressed. 
+dark wonder of a woman. 
+your eyes gleam like the arid 
+ landscapes of horse and rider. 
+green-almond bullets. 
+
+The final word bank is such: 
+
+criminal. 
+gypsy. 
+mover. 
+joker. 
+energy. 
+brave. 
+under. 
+hallucinations. 
+hot silver. 
+don't forget the gypsies gave 
+ that suit to you. 
+rich in moons and poorly dressed. 
+dark wonder of a woman. 
+your eyes gleam like the arid 
+ landscapes of horse and rider. 
+green-almond bullets. 
+
+The word bank will be used to write 
+four kinds of poems, structured by 
+the following table: 
+
+Poems    
+        Irish        English        Spanish         Japanese
+             A              A              Noun             Five 
+             A              B              Adjective        Two 
+             B              A              Verb             Five 
+             B              B              Adverb 
+             A              C 
+                            C 
+Pattern:     Endrhyme       Endrhyme       Speech           Meter
+
+Irish: 
+
+English: 
+
+Spanish: 
+
+Japanese: 
 
            Playlist 
 
@@ -914,6 +1006,34 @@ LI.
     Bay by Otis Redding. 
 11. Midnight Rider by Willie 
     Nelson. 
+
+           The Line 
+
+LII. 
+behaving niggardly doesn't make 
+one a nigga'. 
+
+           Trick 
+
+LIII. 
+Upon leaving the office of Master 
+Councilor for John Greenleaf 
+Whitter Chapter, I am to take a 
+silver dollar out of the treasury 
+and then put it back in the 
+treasury as a demonstration that 
+I still owe one silver dollar to 
+the treasury. So, in a sense: 
+
+I got 
+one more 
+silver dollar. 
+
+           Fin 
+
+LIV. 
+nightjar becomes the dose. 
+waterfront becomes the detox. 
 
            ***** 
             *** 
