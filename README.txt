@@ -12,7 +12,6 @@ Licensing: Content in this text file
 Author: Nick Morris. 
 Release: Wednesday, August 26th 2026. 
 Location: Philadelphia, PA. 
-Version: euphredes==0.2.0rc1 
 
            Contents 
            -------- 
