@@ -752,9 +752,27 @@ Match Bet           Return
            Consultation 
            ------------ 
 
+VLII. 
+As an industrial engineer, walking the 
+value stream on the groundfloor of 
+thirty-six counties, I have determined 
+that the information flow of media does 
+not sufficiently trigger material flow 
+to people, places, and things so that 
+they survive and thrive. When I think 
+like an industrialist, I see a large 
+scale facilities planning problem for 
+each village, town, and city; and I 
+see a small scale neighboring problem 
+for each block within a place. As a 
+consultant, the following two 
+operational models serve to test the 
+strength of macroeconomics and 
+microeconomics. 
+
            Macroscale Model 
 
-VLII. 
+VLIII. 
 # Stage.mod 
 #            Facilities Planning 
 
@@ -815,7 +833,7 @@ s.t. Conversion{i in F}: sum{(i,j) in A}(x[i,j,2]) = sum{(i,j) in A}(con[i] * x[
 
            Microscale Model 
 
-VLIII. 
+IL. 
 # Flow.mod 
 #            B-Matching Model 
 
@@ -859,7 +877,7 @@ s.t. Edge{i in D}: sum{j in D:i<j}(x[i,j]) + sum{j in D:i>j}(x[j,i]) = b[i];
 
            Square 
 
-IL. 
+L. 
 A J B K C L  
  S   T   U 
 D M E N F O 
@@ -869,7 +887,7 @@ G P H Q  I
 
            Generator 
 
-L. 
+LI. 
 1 A J S 
 2 B K T 
 3 C L U 
@@ -882,7 +900,7 @@ L.
 
            Bank 
 
-LI. 
+LII. 
 Set your intension on some topic, 
 say, "criminal." Now, map each letter 
 of the topic to numbers: one through 
@@ -1032,12 +1050,12 @@ poorly dressed, without flying nor
 
 Japanese: 
 five to one, walking straightaways. 
-   all, nothing: 
+   all, nothing... 
 half-measures slower than mississippi. 
 
            Playlist 
 
-LII. 
+LIII. 
 1. Tobey by Eminem, Big Sean, and 
    BabyTron. 
 2. Kumbaya by Hopsin. 
@@ -1058,13 +1076,13 @@ LII.
 
            The Line 
 
-LIII. 
+LIV. 
 behaving niggardly doesn't make 
 one a nigga'. 
 
            Trick 
 
-LIV. 
+LV. 
 Upon leaving the office of Master 
 Councilor for John Greenleaf 
 Whitter Chapter, I am to take a 
@@ -1080,7 +1098,7 @@ silver dollar.
 
            Fin 
 
-LV. 
+LVI. 
 nightjar becomes the dose. 
 waterfront becomes the detox. 
 
