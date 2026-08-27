@@ -605,7 +605,7 @@ running around,
 chasing stars. 
 collecting that love of ours: 
 into those jars of hearts... 
-you're gonna' catch a cold. 
+you're gonna' catch a cold, 
 with the "nice" 
 inside of your soul. 
 don't come back to me. 
