@@ -518,7 +518,7 @@ water.
 
 XV. 
 I don't want to betray her with other 
-relations. 
+drives. 
 
 XVI. 
 Negate the rest as passage to her. 
