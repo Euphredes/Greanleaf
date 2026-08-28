@@ -1105,9 +1105,15 @@ LIV.
 behaving niggardly doesn't make 
 one a nigga'. 
 
-           Trick 
+           Hunger 
 
 LV. 
+hunger is the first drive that 
+ betrays her. 
+
+           Trick 
+
+LVI. 
 Upon leaving the office of Master 
 Councilor for John Greenleaf 
 Whitter Chapter, I am to take a 
@@ -1123,7 +1129,7 @@ silver dollar.
 
            Fin 
 
-LVI. 
+LVII. 
 nightjar becomes the dose. 
 waterfront becomes the detox. 
 the other drives roast. 
