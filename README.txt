@@ -1111,9 +1111,15 @@ LV.
 hunger is the first drive that 
  betrays her. 
 
-           Trick 
+           Help 
 
 LVI. 
+the help I need isn't delivered 
+ when I ask for help. 
+
+           Trick 
+
+LVII. 
 Upon leaving the office of Master 
 Councilor for John Greenleaf 
 Whitter Chapter, I am to take a 
@@ -1129,7 +1135,7 @@ silver dollar.
 
            Fin 
 
-LVII. 
+LVIII. 
 nightjar becomes the dose. 
 waterfront becomes the detox. 
 the other drives roast. 
