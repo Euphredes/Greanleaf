@@ -1097,6 +1097,7 @@ LIII.
     Nelson. 
 12. M.I.S.S.I.S.S.I.P.P.I. by 
     Big K.R.I.T. 
+13. Red Eye by Big K.R.I.T. 
 
            Line 
 
@@ -1125,6 +1126,7 @@ silver dollar.
 LVI. 
 nightjar becomes the dose. 
 waterfront becomes the detox. 
+the other drives roast. 
 
            ***** 
             *** 
