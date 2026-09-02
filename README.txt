@@ -1085,8 +1085,7 @@ LIII.
 4. Lucky You by Eminem and Joyner 
    Lucas. 
 5. Five to One by The Doors. 
-6. Whistle Dixie by Travis Barker and 
-   Yelawolf
+6. Daylight by Yelawolf. 
 7. Look What You Made Me Do by Taylor 
    Swift. 
 8. Human by Christina Perri. 
