@@ -3,7 +3,6 @@
            --------- 
 
            Publishing 
-           ---------- 
 
 Licensing: Content in this text file 
            is licensed under a Creative 
@@ -14,16 +13,21 @@ Release: Saturday, September 5th 2026.
 Location: Philadelphia, PA. 
 
            Contents 
-           -------- 
 
-Introduction                         - 
-Counties                             II. 
-Person                               III. 
-Table                                XI. 
-Mysticism                            XIII. 
+Introduction 
+Counties 
+Person 
+Table 
+Mysticism 
 
            Introduction 
            ------------ 
+
+           Story 
+
+           Approach 
+
+           Execution 
 
 The following contents cover my life's 
 work to justify non-profit practices, 
