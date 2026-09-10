@@ -1,6 +1,8 @@
-           --------- 
-           Greanleaf 
-           --------- 
+
+
+           GREANLEAF 
+           A PRACTICE 
+
 
            Publishing 
 
@@ -11,6 +13,10 @@ Licensing: Content in this text file
 Author: Nick Morris. 
 Release: Saturday, September 5th 2026. 
 Location: Philadelphia, PA. 
+
+           --------- 
+           Greanleaf 
+           --------- 
 
            Contents 
 
