@@ -33,7 +33,7 @@ Mysticism
 
            Approach 
 
-           Execution 
+           Responsibilities 
 
 The following contents cover my life's 
 work to justify non-profit practices, 
