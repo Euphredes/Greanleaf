@@ -31,9 +31,39 @@ Mysticism
 
            Storyline 
 
+Opponent 
+ Maslow's Pyramid 
+Game 
+ Heist 
+Monster 
+ Penal Colony 
+Outward 
+ Physical Adventure 
+Inward 
+ Obstacle Course 
+
            Approach 
 
+Problem 
+ Slitherlink Knapsack 
+Sets 
+ Destinations 
+ Traps 
+ Items 
+ Storages 
+Solver 
+ Greedy 
+
            Responsibilities 
+
+Mentally 
+ Silence 
+Physically 
+ Momentum 
+Spiritually 
+ Focus 
+
+           * * * 
 
 The following contents cover my life's 
 work to justify non-profit practices, 
