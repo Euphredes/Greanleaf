@@ -228,6 +228,18 @@ An additional sixteen recovery
 Training Center of The Great Rock 
  Church in Danvers Massachusetts. 
 
+           Militant 
+
+Logically, my practices everyday 
+yield a body-for-body exchange 
+system. In such a system, money is 
+not the exchange factor. It is my 
+birthright to choose how I practice 
+exchange to survive. It is my body 
+for another body to improve. Notice: 
+in any military, each badge is earned 
+by crossing a line. 
+
            Table 
            ----- 
 
@@ -282,7 +294,6 @@ Nashua spellwork: The starting point is
 
            Mindreaders 
 
-XIII. 
 Respect: 
 1. Love for family and friends. 
 2. Praise rarity. Protect rarity. 
@@ -292,87 +303,56 @@ Respect:
 6. Give care. 
 7. Recognize any Sovereign. 
 
-           Militant 
-
-Logically, these practices everyday 
-yield a body-for-body exchange 
-system. In such a system, money is 
-not the exchange factor. It is my 
-birthright to choose how I practice 
-exchange to survive. It is my body 
-for another body to improve. Notice: 
-in any military, each badge is earned 
-by crossing a line. 
-
            Nonmaterial 
 
-XIV. 
 I just want to feed on and support the 
 nonmaterial... something like invisible 
 water. 
 
-XV. 
+           Loyalty 
+
 I don't want to betray her with other 
 drives. 
 
-XVI. 
+           Chief 
+
 Negate the rest as passage to her. 
 
-XVII. 
+           Godliness 
+
 Attitude starts at the destination. It's 
 only a matter of physical demonstration 
 to get my body there. 
 
-XVIII. 
+           Solver 
+
 it is solved by walking 
 where 
 this train only moves forward. 
 
-XIX. 
-When walking, I envision orbs of light 
-being absorbed into my body. 
+           Labor 
 
-XX. 
-When sitting or laying down, I envision 
-the tides of the beach being absorbed 
-into my body. 
-
-XXI. 
-When sitting or laying down, I envision 
-being bound by chains into stillness. 
-
-XXII. 
 Walking is how I earn what I show up for. 
 
-XXIII. 
+           Share 
+
 I let my body and mind become loose or 
 limp, so she can control my motor skills. 
 
-XXIV. 
-I scratch and rub something to charge it. 
+           Protection 
 
-XXV. 
-Whenever I tap on something, there must 
-be words assigned to each motion. This 
-builds a secure connection between me 
-and her. 
-
-XXVI. 
-Humming, chanting, and singing; this 
-builds a secure connection between me 
-and her. This charges the desire. 
-
-XXVII. 
 What I place attention on will create 
 protection against what I don't place 
 attention on. 
 
-XXVIII. 
+           Buoy 
+
 I sway my shoulders left and right such 
 that my head to feet feel like a flower 
 in the breeze. 
 
-XXIX. 
+           Barter 
+
 I leave things behind as an exchange 
 system. 
 
