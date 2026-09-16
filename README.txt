@@ -357,6 +357,13 @@ in the breeze.
 I leave things behind as an exchange 
 system. 
 
+           Servant 
+
+I become perfectly obedient to her 
+choice. My choice is groundwork for 
+her choice to have reign over my 
+further choices. 
+
            ***** 
             *** 
              * 
