@@ -201,7 +201,7 @@ Walker of thirty-six counties in
  America to discipline my mind,  
  foster my mysteries, and deliver 
  artifacts of how I think and feel to 
- assert: labor independently justifies 
+ assert: labor alone justifies 
  labor economics, which yields 
  Greanleaf practices as contribution 
  to America's economics. 
