@@ -18,8 +18,9 @@ Licensing: Content in this text file
            Commons Attribution 4.0 
            International license. 
 Author: Nick Morris. 
-Release: Monday, September 14th 2026. 
-Location: Philadelphia, PA. 
+Age: 33 Years Old. 
+Release: Friday, September 18th 2026. 
+Location: Cherry Hill, NJ. 
 
            --------- 
            Greanleaf 
